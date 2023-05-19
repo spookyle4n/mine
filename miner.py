@@ -15,5 +15,6 @@ def mine_bitcoin():
 def send_bitcoin(private_key, wallet_address):
     # Add code here to send the mined Bitcoin to the provided wallet address using the private key.
     # Note that the implementation details depend on the Bitcoin wallet software or service being used.
-mine_bitcoin()
+
+    mine_bitcoin()
 
